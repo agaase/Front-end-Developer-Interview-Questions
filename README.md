@@ -70,7 +70,7 @@ This file contains a number of front-end interview questions that can be used wh
 * Describe z-index and how stacking context is formed.
 * Describe BFC(Block Formatting Context) and how it works.
 * What are the various clearing techniques and which is appropriate for what context?
-  https://scotch.io/tutorials/a-visual-guide-to-css3-flexbox-properties[https://scotch.io/tutorials/a-visual-guide-to-css3-flexbox-properties]
+  ** scotch.io[https://scotch.io/tutorials/a-visual-guide-to-css3-flexbox-properties]
 * Explain CSS sprites, and how you would implement them on a page or site.
 * What are your favourite image replacement techniques and which do you use when?
 * How would you approach fixing browser-specific styling issues?
