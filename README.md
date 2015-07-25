@@ -66,12 +66,17 @@ This file contains a number of front-end interview questions that can be used wh
 
 * What is the difference between classes and ID's in CSS?
 * What's the difference between "resetting" and "normalizing" CSS? Which would you choose, and why?
+  * (stack overflow)[http://stackoverflow.com/questions/6887336/what-is-the-difference-between-normalize-css-and-reset-css]
+  * (reset css)[http://meyerweb.com/eric/tools/css/reset/]
+  * (normalise css)[http://necolas.github.io/normalize.css/]
 * Describe Floats and how they work.
+  * (msdn)[https://developer.mozilla.org/en-US/docs/Web/CSS/float]
 * Describe z-index and how stacking context is formed.
 * Describe BFC(Block Formatting Context) and how it works.
 * What are the various clearing techniques and which is appropriate for what context?
   * [scotch.io] (https://scotch.io/tutorials/a-visual-guide-to-css3-flexbox-properties)
 * Explain CSS sprites, and how you would implement them on a page or site.
+  * (css tricks)[https://css-tricks.com/css-sprites/]
 * What are your favourite image replacement techniques and which do you use when?
 * How would you approach fixing browser-specific styling issues?
 * How do you serve your pages for feature-constrained browsers?
