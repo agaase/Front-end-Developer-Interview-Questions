@@ -100,6 +100,7 @@ This file contains a number of front-end interview questions that can be used wh
 * The 'C' in CSS stands for Cascading.  How is priority determined in assigning styles (a few examples)?  How can you use this system to your advantage?
 * What existing CSS frameworks have you used locally, or in production? How would you change/improve them?
 * Have you played around with the new CSS Flexbox or Grid specs?
+  * [scotch.io](https://scotch.io/tutorials/a-visual-guide-to-css3-flexbox-properties)
 * How is responsive design different from adaptive design?
 * Have you ever worked with retina graphics? If so, when and what techniques did you use?
 * Is there any reason you'd want to use `translate()` instead of *absolute positioning*, or vice-versa? And why?
